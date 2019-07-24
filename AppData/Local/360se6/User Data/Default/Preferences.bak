@@ -1,0 +1,219 @@
+{
+   "adblock": {
+      "enable": true,
+      "last_blocked_statistic_day": "0",
+      "last_statistic_day": "0",
+      "level": -1,
+      "mode": 0,
+      "statistic_day_count": 0,
+      "statistic_day_date": "13113676800000000"
+   },
+   "browser": {
+      "disk_cache_dir": "c:\\users\\administrator\\appdata\\roaming\\360se6\\User Data\\Default",
+      "window_placement": {
+         "bottom": 702,
+         "left": 0,
+         "maximized": false,
+         "right": 1024,
+         "top": 123,
+         "work_area_bottom": 728,
+         "work_area_left": 0,
+         "work_area_right": 1024,
+         "work_area_top": 0
+      }
+   },
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.haosou.com/favicon.ico",
+      "id": "2",
+      "image_url": "",
+      "image_url_post_params": "",
+      "instant_url": "",
+      "instant_url_post_params": "",
+      "keyword": "haosou.com",
+      "name": "\u597D\u641C",
+      "new_tab_url": "",
+      "prepopulate_id": "107",
+      "search_terms_replacement_key": "",
+      "search_url": "http://www.haosou.com/s?ie=utf-8&src=360se7_addr&q={searchTerms}",
+      "search_url_post_params": "",
+      "suggest_url": "http://www.google.cn/complete/search?client=chrome&q={searchTerms}&{google:cursorPosition}{google:zeroPrefixUrl}sugkey={google:suggestAPIKeyParameter}",
+      "suggest_url_post_params": ""
+   },
+   "extensions": {
+      "alerts": {
+         "initialized": true
+      },
+      "autoupdate": {
+         "next_check": "13113717712101202"
+      },
+      "last_chrome_version": "7.1.1.604",
+      "settings": {
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_permissions": {
+               "api": [ "management", "webstorePrivate" ]
+            },
+            "app_launcher_ordinal": "t",
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13113717258836532",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://chrome.google.com/webstore"
+                  },
+                  "urls": [ "https://chrome.google.com/webstore", "https://ext.chrome.360.cn", "https://skin.chrome.360.cn", "http://chrome.360.cn/themes", "http://warn.se.360.cn", "https://ext.se.360.cn" ]
+               },
+               "description": "Chrome Web Store",
+               "icons": {
+                  "128": "webstore_icon_128.png",
+                  "16": "webstore_icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtl3tO0osjuzRsf6xtD2SKxPlTfuoy7AWoObysitBPvH5fE1NaAA1/2JkPWkVDhdLBWLaIBPYeXbzlHp3y4Vv/4XG+aN5qFE3z+1RU/NqkzVYHtIpVScf3DjTYtKVL66mzVGijSoAIwbFCC3LpGdaoe6Q1rSRDp76wR6jjFzsYwQIDAQAB",
+               "name": "\u7F51\u4E0A\u5E94\u7528\u5E97",
+               "permissions": [ "account360", "webstorePrivate", "management" ],
+               "version": "0.2"
+            },
+            "page_ordinal": "n",
+            "path": "C:\\Users\\Administrator\\AppData\\Roaming\\360se6\\Application\\7.1.1.604\\resources\\web_store",
+            "was_installed_by_default": false
+         },
+         "mfehgcgbbipciphmccgaenjidiccnmng": {
+            "active_permissions": {
+               "api": [ "cloudPrintPrivate" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13113717258834532",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://www.google.com/cloudprint"
+                  },
+                  "urls": [ "https://www.google.com/cloudprint/enable_chrome_connector" ]
+               },
+               "description": "Cloud Print",
+               "display_in_launcher": false,
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqOhnwk4+HXVfGyaNsAQdU/js1Na56diW08oF1MhZiwzSnJsEaeuMN9od9q9N4ZdK3o1xXOSARrYdE+syV7Dl31nf6qz3A6K+D5NHe6sSB9yvYlIiN37jdWdrfxxE0pRYEVYZNTe3bzq3NkcYJlOdt1UPcpJB+isXpAGUKUvt7EQIDAQAB",
+               "name": "Cloud Print",
+               "permissions": [ "cloudPrintPrivate" ],
+               "version": "0.1"
+            },
+            "path": "C:\\Users\\Administrator\\AppData\\Roaming\\360se6\\Application\\7.1.1.604\\resources\\cloud_print",
+            "was_installed_by_default": false
+         },
+         "mgndgikekgjfcpckkfioiadnlibdjbkf": {
+            "app_launcher_ordinal": "n",
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13113717258836532",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://THIS-WILL-BE-REPLACED"
+                  }
+               },
+               "description": "Chrome as an app",
+               "display_in_launcher": true,
+               "display_in_new_tab_page": false,
+               "icons": {
+                  "128": "product_logo_128.png",
+                  "16": "product_logo_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNuYLEQ1QPMcc5HfWI/9jiEf6FdJWqEtgRmIeI7qtjPLBM5oje+Ny2E2mTAhou5qdJiO2CHWdU1DQXY2F7Zu2gZaKZgHLfK4WimHxUT5Xd9/aro/R9PCzjguM1BLusiWYc9xlj1IsZpyiN1hcjU7SCnBhv1feQlv2WSB5KRiXwhQIDAQAB",
+               "name": "360\u5B89\u5168\u6D4F\u89C8\u5668",
+               "version": "0.1"
+            },
+            "page_ordinal": "n",
+            "path": "C:\\Users\\Administrator\\AppData\\Roaming\\360se6\\Application\\7.1.1.604\\resources\\chrome_app",
+            "was_installed_by_default": false
+         }
+      }
+   },
+   "hardware": {
+      "audio_capture_managed_urls": [ "http://www.shuobar.cn" ],
+      "audio_capture_white_urls": [ "[*.]www.shuobar.cn" ]
+   },
+   "homepage_engine_list": [ 0 ],
+   "ntp": {
+      "import_from_early_version": false
+   },
+   "plugins": {
+      "migrated_to_pepper_flash": true,
+      "removed_old_component_pepper_flash_settings": true
+   },
+   "preset_popup_host_loaded": 2,
+   "process_mute": false,
+   "profile": {
+      "avatar_index": 0,
+      "content_settings": {
+         "clear_on_exit_migrated": true,
+         "pattern_pairs": {
+            "[*.]99bill.com,*": {
+               "popups": 1
+            },
+            "[*.]alipay.com,*": {
+               "popups": 1
+            },
+            "[*.]ipos.10086.cn,*": {
+               "popups": 1
+            },
+            "[*.]netpay.sdo.com,*": {
+               "popups": 1
+            },
+            "[*.]pay.ips.com.cn,*": {
+               "popups": 1
+            },
+            "[*.]pay.soopay.net,*": {
+               "popups": 1
+            },
+            "[*.]payment.chinapnr.com,*": {
+               "popups": 1
+            },
+            "[*.]pingan.com,*": {
+               "popups": 1
+            },
+            "[*.]tenpay.com,*": {
+               "popups": 1
+            }
+         },
+         "pref_version": 1
+      },
+      "created_by_version": "7.1.1.604",
+      "exit_type": "Crashed",
+      "exited_cleanly": true,
+      "icon_version": 2,
+      "managed_user_id": "",
+      "name": "\u7B2C 1 \u4F4D\u7528\u6237"
+   },
+   "safemonLockHomePage": 2,
+   "safemon_lock_search": 2,
+   "se": {
+      "browser": {
+         "layout": {
+            "show_favor_bar": true,
+            "show_login_box": true,
+            "show_menu_bar": true,
+            "show_plugin_bar": true,
+            "show_search_bar": true,
+            "show_side_bar": false,
+            "show_status_bar": true
+         },
+         "smart_preheat_times": "1"
+      }
+   },
+   "session": {
+      "restore_on_startup": 4,
+      "urls_to_restore_on_startup": [ "http://www.hao821.com/" ]
+   },
+   "user_experience_dump": {
+      "reporting_enabled": true
+   }
+}
